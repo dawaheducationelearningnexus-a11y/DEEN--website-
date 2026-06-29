@@ -1,1 +1,70 @@
+/* ==========================================================
+   DEEN Design System
+   Dawah Education & E-learning Nexus
+   ========================================================== */
 
+:root{
+
+    /* Brand */
+
+    --primary:#0F766E;
+    --primary-light:#14B8A6;
+    --primary-dark:#115E59;
+
+    --secondary:#1E293B;
+
+    --accent:#F59E0B;
+
+    --success:#16A34A;
+    --warning:#FACC15;
+    --danger:#DC2626;
+
+    /* Background */
+
+    --bg:#FFFFFF;
+    --surface:#F8FAFC;
+    --surface-2:#EEF2F7;
+
+    /* Text */
+
+    --text:#111827;
+    --text-light:#6B7280;
+    --text-white:#FFFFFF;
+
+    /* Border */
+
+    --border:#E5E7EB;
+
+    /* Radius */
+
+    --radius-xs:4px;
+    --radius-sm:8px;
+    --radius-md:14px;
+    --radius-lg:20px;
+    --radius-xl:30px;
+
+    /* Shadow */
+
+    --shadow-sm:0 2px 6px rgba(0,0,0,.08);
+    --shadow-md:0 8px 24px rgba(0,0,0,.10);
+    --shadow-lg:0 20px 50px rgba(0,0,0,.18);
+
+    /* Width */
+
+    --container:1400px;
+
+    /* Transition */
+
+    --transition:.35s ease;
+
+    /* Header */
+
+    --header-height:82px;
+
+    /* Font */
+
+    --font-bangla:"Hind Siliguri",sans-serif;
+    --font-english:"Inter",sans-serif;
+    --font-arabic:"Noto Naskh Arabic",serif;
+
+}
